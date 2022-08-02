@@ -8,14 +8,16 @@
 
 var socialtags = [{
     img: "img/github.svg",
-    link: "https://github.com/shroomgaze"
+    link: "https://github.com/yohansyahck"
 }, {
     img: "img/linkedin.svg",
     link: "https://www.linkedin.com/in/yohansyahck/"
-}, {
-    img: "img/gitlab.svg",
-    link: "https://gitlab.com/shroomgaze"
-}, {
+},
+// {
+//     img: "img/gitlab.svg",
+//     link: "https://gitlab.com/shroomgaze"
+// },
+{
     img: "img/twitter.svg",
     link: "https://twitter.com/shroomgaze"
 }]
